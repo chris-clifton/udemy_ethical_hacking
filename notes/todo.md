@@ -1,0 +1,2 @@
+- setup secure email address
+  - signup for hunter.io (free version)
